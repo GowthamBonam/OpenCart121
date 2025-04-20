@@ -1,0 +1,56 @@
+02:03:13.937 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:03:13.969 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:03:13.970 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:03:13.970 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+02:03:13.970 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+02:03:13.986 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\NISSY\AppData\Local\Temp\testng-eclipse--1689337886\testng-customsuite.xml
+
+02:03:14.026 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+02:03:14.654 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@72f46e16: 199 ms
+02:03:14.704 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e46d9f4: 49 ms
+02:03:14.732 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@62923ee6: 28 ms
+02:03:14.752 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7de0c6ae: 20 ms
+02:03:14.771 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@21526f6c: 19 ms
+02:03:14.772 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@49f5c307: 0 ms
+02:03:32.670 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+02:03:58.440 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+02:04:44.219 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+02:06:16.111 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+20:22:33.771 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+20:23:46.562 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+20:30:38.322 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+20:35:08.389 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+20:35:23.664 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+20:35:27.588 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+21:54:56.011 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:00:33.334 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:05:27.167 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:14:00.160 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:14:19.020 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:14:26.869 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:68)oggger - *** Finished TC_003_LoginDDT******
+22:14:27.270 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:14:30.741 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:14:34.019 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:14:47.795 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:68)oggger - *** Finished TC_003_LoginDDT******
+22:14:47.803 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****

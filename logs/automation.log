@@ -1,0 +1,31 @@
+21:21:35.712 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+17:52:13.836 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+17:55:46.446 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+17:57:06.410 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:30)oggger - *******Stating TC001_AccountRegistrationTest***
+17:57:13.252 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:36)oggger - clicked on My Account Link
+17:57:14.779 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:39)oggger - clicked on My Register Link
+17:57:15.971 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:43)oggger - Providing customer details
+17:57:19.301 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:57)oggger - Valdating expected Message
+17:57:19.451 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:75)oggger - ****Finished TC-001
+17:57:43.616 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+17:57:49.240 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+18:00:07.085 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:30)oggger - *******Stating TC001_AccountRegistrationTest***
+18:00:09.718 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:36)oggger - clicked on My Account Link
+18:00:12.739 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:39)oggger - clicked on My Register Link
+18:00:12.776 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:43)oggger - Providing customer details
+18:00:18.495 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:57)oggger - Valdating expected Message
+18:00:18.821 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:75)oggger - ****Finished TC-001
+18:01:03.509 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+18:01:10.089 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+17:36:16.422 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:30)oggger - *******Stating TC001_AccountRegistrationTest***
+17:36:18.969 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:36)oggger - clicked on My Account Link
+17:36:24.591 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:39)oggger - clicked on My Register Link
+17:36:24.605 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:43)oggger - Providing customer details
+17:36:33.048 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:57)oggger - Valdating expected Message
+17:36:33.415 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:75)oggger - ****Finished TC-001
+17:36:55.682 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+17:36:59.016 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****

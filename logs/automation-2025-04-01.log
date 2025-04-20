@@ -1,0 +1,49 @@
+22:22:42.477 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:23:36.642 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:23:44.870 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:23:44.908 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:23:48.025 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:23:51.458 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:24:06.774 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:24:06.794 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:28:13.923 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:28:45.625 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:28:53.227 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:28:53.275 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:28:56.864 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:29:00.613 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:29:15.950 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:29:15.962 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+21:56:47.470 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:01:45.604 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:02:21.409 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:02:34.653 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:02:34.671 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:02:38.134 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:02:43.797 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:03:01.039 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:03:01.073 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:03:08.911 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:69)oggger - *** Finished TC_003_LoginDDT******
+22:15:06.428 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:15:45.286 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:16:02.920 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:73)oggger - *** Finished TC_003_LoginDDT******
+22:16:02.944 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:16:07.175 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:16:14.793 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:16:32.146 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:73)oggger - *** Finished TC_003_LoginDDT******
+22:16:32.174 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+22:16:41.252 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:73)oggger - *** Finished TC_003_LoginDDT******
+22:18:02.414 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+22:18:27.129 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****

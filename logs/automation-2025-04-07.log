@@ -1,0 +1,44 @@
+17:03:10.151 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+17:03:13.324 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+17:09:20.079 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Grouping.xml
+
+17:13:39.199 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Grouping.xml
+
+17:13:51.693 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:30)oggger - *******Stating TC001_AccountRegistrationTest***
+17:13:53.471 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:36)oggger - clicked on My Account Link
+17:13:54.900 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:39)oggger - clicked on My Register Link
+17:13:54.939 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:43)oggger - Providing customer details
+17:13:58.875 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:57)oggger - Valdating expected Message
+17:13:59.009 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:75)oggger - ****Finished TC-001
+17:14:12.637 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+17:14:19.318 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+17:18:41.888 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+17:19:04.932 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+17:19:18.904 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:72)oggger - *** Finished TC_003_LoginDDT******
+17:19:19.040 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+17:19:25.454 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:72)oggger - *** Finished TC_003_LoginDDT******
+17:19:25.466 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+17:19:31.861 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:72)oggger - *** Finished TC_003_LoginDDT******
+17:20:38.522 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Grouping.xml
+
+17:20:59.342 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:30)oggger - *******Stating TC001_AccountRegistrationTest***
+17:20:59.788 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:36)oggger - clicked on My Account Link
+17:21:03.288 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:39)oggger - clicked on My Register Link
+17:21:03.347 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:43)oggger - Providing customer details
+17:21:10.492 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:57)oggger - Valdating expected Message
+17:21:11.440 [main] INFO  testCases.TC001_AccountRegistraionTest.verify_account_registration(TC001_AccountRegistraionTest.java:75)oggger - ****Finished TC-001
+17:21:30.235 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:16)oggger - **** Strating TC_002_LoginTest*****
+17:21:45.744 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:42)oggger - ********Finished TC_002_LoginTest*****
+19:28:00.865 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\eclipse-workspace\Opencart121\Master.xml
+
+19:30:12.595 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+19:30:21.326 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:72)oggger - *** Finished TC_003_LoginDDT******
+19:30:21.459 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
+19:30:27.522 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:72)oggger - *** Finished TC_003_LoginDDT******
+19:30:27.531 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:19)oggger - ****** starting TC_003_LoginDDT*****
